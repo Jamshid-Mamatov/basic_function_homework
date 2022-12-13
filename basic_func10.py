@@ -4,5 +4,7 @@
 
 # Return the opposite value of a.
 
-def main():
-    return 0
+def main(a):
+
+    return (-1)*a
+
